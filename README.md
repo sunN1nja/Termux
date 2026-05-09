@@ -14,6 +14,6 @@
 
 `chmode +x linux-setup.sh`
 
-`~/linux-setup.sh`
+`./linux-setup.sh`
 
 
