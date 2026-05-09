@@ -2,6 +2,8 @@
 
 ## Linux setup
 
+Download and install: https://github.com/termux/termux-x11/releases
+
 `termux-setup-storage`
 
 `apt update -y && apt upgrade -y`
