@@ -8,7 +8,7 @@
 
 `apt install git -y`
 
-`git clone https://github.com/sunN1nja/Termux/blob/main/linux-setup.sh`
+`git clone https://github.com/sunN1nja/Termux`
 
 `chmode +x linux-setup.sh`
 
