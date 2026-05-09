@@ -10,6 +10,8 @@
 
 `git clone https://github.com/sunN1nja/Termux`
 
+`cd Termux`
+
 `chmode +x linux-setup.sh`
 
 `~/linux-setup.sh`
